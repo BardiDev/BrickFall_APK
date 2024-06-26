@@ -1,2 +1,2 @@
 # BrickFall_APK
-Android Alpha test.
+Android APK Pre-Alpha Test.
